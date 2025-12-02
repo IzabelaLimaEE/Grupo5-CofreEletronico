@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetR4_2 Pin=U1-33
+Change Component Designator: OldDesignator=Input NewDesignator=J1
+Change Component Designator: OldDesignator=Output NewDesignator=J2
+Change Component Designator: OldDesignator=Teclado Numerico NewDesignator=U3
+Added Pin To Net: NetName=NetR4_2 Pin=U1-11
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
